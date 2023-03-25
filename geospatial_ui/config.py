@@ -36,5 +36,5 @@ class postgresql_creds:
     host = "ambarishpgsql.postgres.database.azure.com"
     port = 5432
     database = "socioeconomic"
-    user = "ambarish"
-    password = "Kolkata@1234"
+    user = ""
+    password = ""
